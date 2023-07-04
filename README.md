@@ -19,5 +19,6 @@
 </div>
 
 
-![Snake animation](https://github.com/YuriMateuss/YuriMateuss/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YuriMateuss/YuriMateuss/snake.yml/github-contribution-grid-snake.svg)
+
 
